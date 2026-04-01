@@ -1,4 +1,4 @@
-# NVXEngine-3D Profiler
+# Profiler
 
 ![Showcase](showcase.png)
 
