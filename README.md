@@ -1,5 +1,7 @@
 # NVXEngine-3D Profiler
 
+![Showcase](showcase.png)
+
 A deep runtime profiler built for real-time applications.
 Originally made for a game engine but honestly works for anything that runs a frame loop in the browser.
 
