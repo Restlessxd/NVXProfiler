@@ -1,0 +1,15 @@
+{
+  "name": "nvx-profiler",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node esbuild.dev.mjs",
+    "build": "node esbuild.build.mjs"
+  },
+  "devDependencies": {
+    "@types/three": "^0.172.0",
+    "esbuild": "^0.25.0",
+    "typescript": "^5.7.0"
+  }
+}
